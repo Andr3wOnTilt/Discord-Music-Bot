@@ -62,10 +62,6 @@ Built with Python, Tkinter, and discord.py — no browser required.
 ### Installation
 
 **1. Clone the repository**
-```bash
-git clone https://github.com/Andr3wOnTilt/discord-bot-dashboard.git
-cd discord-bot-dashboard
-```
 
 **2. Install Python dependencies**
 ```bash
